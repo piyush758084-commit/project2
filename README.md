@@ -1,4 +1,3 @@
 # new Project
- This project ead created from local system
- this is a second line
- 
+ This project ead created from local system.
+ This is a second line
